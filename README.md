@@ -1,5 +1,5 @@
 # cca
-Cellular automaton with a few features (cellular competition, mobility, etc) in C++ (sfml). Rum from terminal on Linux (./model [preset]). Pseudo-interface in polish.
+Cellular automaton with a few features (cellular competition, mobility, etc) in C++ (sfml). Rum from terminal on Linux (./model [preset]). Pseudo-interface in polish. Prepared for a presentation about cyclic cellular automata on a 
 
 Predefined presets: 
 * big - grid 200x200, 7 populations, cyclic competiton, discrete time
